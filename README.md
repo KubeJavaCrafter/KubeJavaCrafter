@@ -2,9 +2,13 @@ Hi there! 👋
 I'm a passionate DevOps Engineer with over 5 years of experience in creating secure, cloud-native applications using AWS, Kubernetes, Jenkins, and Terraform. My journey in DevOps has been driven by a love for automation, cloud technologies, and continuous improvement.
 
 🚀 What I Do
+
 🔹 Kubernetes & Docker: Expert in deploying and managing containerized applications, ensuring smooth operations across development, QA, staging, and production environments.
+
 🔹 AWS Services: Skilled in leveraging AWS-managed services like EC2, S3, Lambda, and EKS to build scalable and reliable infrastructure.
+
 🔹 CI/CD Pipelines: Proficient in designing and maintaining automated deployment pipelines using Jenkins and Azure Pipelines for seamless integration and delivery.
+
 🔹 Infrastructure as Code: Strong background in using Terraform and CloudFormation to automate infrastructure provisioning and management.
 
 🏆 Achievements
